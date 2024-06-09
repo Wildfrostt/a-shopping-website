@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #195276;
+  padding-bottom: 2px;
+}
+.nav-link {
+  color: white;
+}
+.btn {
+  background-color: white;
+  height: 30px;
+  width: 100px;
+  border-radius: 15px;
+  margin-right: 25px;
+  padding-bottom: 5px;
+  padding: 0;
+  border: 3px solid white;
+}
+.btn:hover {
+  background-color: white;
+  border-color: white;
+  text-decoration: underline;
+  text-decoration-color: #195276;
+  text-decoration-thickness: 3px;
+}
+.nav-link:hover {
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  
+}
+.nav-link:visited {
+  color: white;
+}
